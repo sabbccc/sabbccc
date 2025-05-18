@@ -1,6 +1,8 @@
 <!-- | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/GreenLii/)-->
 <!-- |[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface)](https://huggingface.co/limon7)
 -->
+<img src="https://github.com/sabbccc.png" width="100" align="left" style="border-radius:50%;" alt="Sabbir Hossain's Avatar" />
+<br clear="left"/>
 
 # 👋  Hi, I'm Sabbir Hossain! ![Visitor Count](https://komarev.com/ghpvc/?username=sabbccc&color=brightgreen&style=flat-square) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabbccc/) | [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sabbccc)
 
