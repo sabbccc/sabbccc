@@ -6,7 +6,7 @@
 
 👩🏻‍💻 Software Specialist with strong focus on .NET (Core, WinForms, MVC, SPA) and cross-platform development<br/>
 👩🏻‍🎓 Studied computer science and engineering at [Ahsanullah University of Science and Technology](https://www.aust.edu/), Bangladesh<br/>
-💭 If you are interested in working with me in the domains mentioned above, please leave a message at khalequzzamanlikhon@gmail.com <br/>
+💭 If you are interested in working with me in the domains mentioned above, please leave a message at imveloped@gmail.com <br/>
 
 <hr>
 
